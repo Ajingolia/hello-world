@@ -1,5 +1,5 @@
-# hello-world
-This is a demo repository.
+# Hello World Project
 
--This is a readme file
--Thats's about it!
+### This project is a demo with the following features:
+-It has a readme file
+-Thats abount it!
